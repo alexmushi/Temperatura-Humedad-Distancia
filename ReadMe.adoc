@@ -1,1 +1,5 @@
 Proyecto IoT
+
+Librerías de Arduino utilizadas:
+DHT11
+HCSR04
