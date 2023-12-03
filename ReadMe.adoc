@@ -3,3 +3,5 @@ Proyecto IoT
 Librerías de Arduino utilizadas:
 DHT11
 HCSR04
+
+Para correr el código sólo se necesita armar el circuito y usar la plataforma Arduino Cloud.
